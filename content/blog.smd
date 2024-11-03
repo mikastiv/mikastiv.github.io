@@ -1,0 +1,9 @@
+---
+.title = "Blog",
+.date = @date("2021-07-06T00:00:00"),
+.author = "mikastiv",
+.layout = "blog.shtml",
+.draft = false,
+---
+
+## Article 1
